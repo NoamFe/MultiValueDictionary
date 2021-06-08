@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5d1c91c3_002D7e59_002D4b82_002Daa41_002D096a364d932c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ADD_ShouldAdd_WhenNotExists" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::CEDA48BF-DB3E-49BD-8A32-39D172CB2F82::net5.0::MultiValueDictionary.MultiValueDictionaryTests.ADD_ShouldAdd_WhenNotExists&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b56b3b0b_002D3be0_002D421b_002D80d1_002D5dda76fd7803/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ADD_ShouldAdd_WhenNotExists #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3FB3F6A5-BA91-4029-8829-C1C1AB33632F::net5.0::MultiValueDictionary.MultiValueDictionaryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
